@@ -27,7 +27,7 @@ First, we'll want to display all the tasks in our app. Pass down the task data
 from `App` to `TaskList`, and display each task using the `Task` component. Make
 sure to use a `key` prop!
 
-### Task
+### Task.
 
 Update the `Task` component so that it shows the task's text and category.
 
